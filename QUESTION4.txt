@@ -1,0 +1,12 @@
+QUESTION4
+
+BUS-TICKET SALES
+	
+	Pick-uo station
+	Destination
+	Customer code
+	Amount paid
+
+Add records
+Search records
+Delete Records
